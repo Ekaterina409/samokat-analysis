@@ -32,7 +32,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 
 
-Результаты
+# Результаты
 Лидер продаж: Безалкогольные напитки — 534 единиц
 Средний чек 13.01.2022: 825.88 ₽
 Доля промо в "Сыры": 30.7%
