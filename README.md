@@ -15,22 +15,6 @@
 - `orders.xlsx` — данные о заказах
 - `products.xlsx` — справочник товаров
 
-# Технологии
-- Python
-- pandas, numpy, matplotlib, seaborn
-- Jupyter Notebook
-
-# Запуск
-```bash
-# Клонировать репозиторий
-git clone https://github.com/твой-ник/samokat-data-analysis.git
-
-# Установить зависимости
-pip install -r requirements.txt
-
-# Открыть ноутбук
-jupyter notebook notebooks/analysis.ipynb
-
 
 # Результаты
 Лидер продаж: Безалкогольные напитки — 534 единиц
